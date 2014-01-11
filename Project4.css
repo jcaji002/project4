@@ -1,0 +1,70 @@
+#container {
+	border: 1px solid pink;
+	height: 700px;
+	width: 1000px;
+}
+
+#nav_bar {
+	border: 1px solid aqua;
+	height: 100px;
+	width: 1000px;
+}
+
+#content {
+	border: 1px solid pink;
+	height: 600px;
+	width: 1000px;
+}
+
+#box_a {
+	background-color: gray;
+	height: 250px;
+	width: 500px;
+}
+
+#top_half{
+	border: 1px solid forestgreen;
+	height: 320px;
+	width: 1000px;
+}
+
+#box_a_nav{
+	background-color: gold;
+	height: 40px;
+	width: 500px;
+
+}
+
+#box1{
+	background-color: blue;
+	height: 250px;
+	width: 225px;
+}
+	#box1_nav{}
+
+#box2{
+	background-color: green;
+	height: 250px;
+	width: 225px;
+}
+	#box2_nav{}
+
+#box3{
+	background-color: red;
+	height: 250px;
+	width: 225px;
+}
+	#box3_nav{}
+
+#box4{
+	background-color: skyblue;
+	height: 250px;
+	width: 225px;
+}
+	#box4_nav{}
+
+
+#box1, #box2, #box3, #box4 {
+	display: inline-block;
+	margin: 10px;
+}
